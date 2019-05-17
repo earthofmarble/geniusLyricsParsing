@@ -1,2 +1,2 @@
 # geniusLyricsParsing
-Сохраняет тексты песен в файлы
+Сохраняет тексты песен на https://genius.com в файлы
