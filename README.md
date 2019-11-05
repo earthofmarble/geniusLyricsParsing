@@ -1,4 +1,4 @@
-# geniusLyricsParsing
+# GeniusLyricsParsing
 Сохраняет тексты песен с https://genius.com в файлы.
 
 Закидываем ссылки на альбомы, типа " https://genius.com/albums/Bob-seger/Night-moves ", в файл albumLinks.txt можно много ссылок через энтер.
